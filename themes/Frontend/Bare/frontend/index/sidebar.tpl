@@ -1,5 +1,5 @@
 {block name="frontend_index_sidebar"}
-    <aside class="sidebar-main off-canvas">
+    <aside class="sidebar-main">
         {block name="frontend_index_left_inner"}
             {* Mobile specific menu actions *}
             {block name="frontend_index_left_navigation_smartphone"}
